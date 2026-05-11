@@ -1,0 +1,9 @@
+# name,radius,orbitRadius,orbitSpeed,rotSpeed,orbitAngle,tilt,orbitTilt,texPath,colorR,colorG,colorB,type,diameter_km,mass_1024kg,orbit_days,dist_mkm,moons,temp_c,extra
+Merkur,0.28,4.5,2.08,0.020,0.0,0.0,7.0,assets/img/mercurio.png,0.7,0.7,0.6,Ko bolygo,4879,0.330,88,57.9,0,167,Nincs atmosfera hatalmas homerseklet-ingadozas
+Venus,0.55,7.0,0.81,0.010,60.0,177.0,3.0,assets/img/venus.png,0.9,0.8,0.5,Ko bolygo,12104,4.867,225,108.2,0,464,A legforrobb bolygo az eros uveghazhatas miatt
+Fold,0.60,9.8,0.50,0.400,120.0,23.0,0.0,assets/img/terra.png,0.2,0.5,0.9,Ko bolygo,12756,5.972,365,149.6,1,15,Az egyetlen ismert eletet hordozo egitest
+Mars,0.42,13.0,0.27,0.390,200.0,25.0,2.0,assets/img/marte.png,0.8,0.3,0.1,Ko bolygo,6792,0.642,687,227.9,2,-65,Az Olympus Mons a Naprendszer legnagyobb vulkanja
+Jupiter,1.30,19.0,0.042,1.000,300.0,3.0,1.0,assets/img/jupiter.png,0.8,0.7,0.5,Gazorias,142984,1898.0,4333,778.6,95,-110,A Nagy Voros Folt egy oriasi viharrendszer
+Szaturnusz,1.10,26.0,0.017,0.930,10.0,27.0,3.0,assets/img/saturno.png,0.9,0.8,0.6,Gazorias,120536,568.0,10759,1433.5,146,-140,Gyurui foleg jeg- es koszemcsekbol allnak
+Uranusz,0.80,33.0,0.006,0.700,80.0,98.0,1.0,assets/img/urano.png,0.5,0.8,0.9,Jegorias,51118,86.81,30687,2872.5,28,-195,Oldalra dolve kering a Nap korul
+Neptun,0.75,40.0,0.003,0.670,160.0,28.0,2.0,assets/img/netuno.png,0.2,0.3,0.9,Jegorias,49528,102.0,60190,4495.1,16,-200,A legerosebb szelek ezen a bolygon vannak
